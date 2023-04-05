@@ -1,7 +1,8 @@
 *{
     margin :0;
     padding :0;
-}
+} 
+body {font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;}
 header{background-color: firebrick;
 color: black;
 display: flex; 
@@ -15,5 +16,10 @@ h1 {
     margin: 0 120px;
     padding: 0 250px;
 } 
-   .escola {
-    background-image: linear-gradient(red,blue);}
+.escola-imagem {width: 200%;}
+
+   .escola { 
+    display: flex ;
+    justify-content: center;
+
+    background-image: linear-gradient(red,blue);} 
