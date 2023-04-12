@@ -23,3 +23,11 @@ h1 {
     justify-content: center;
 
     background-image: linear-gradient(red,blue);} 
+    .aluno-um{
+        width: 20%;
+    }
+    .estudante-titulo{ 
+        text-align: center;
+        padding: 28px 0;
+        font-size: 53 px;
+    }
